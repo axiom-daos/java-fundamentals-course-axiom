@@ -28,9 +28,13 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 3: Decisiones, bucles y arrays ( minutos)
 
-- **Descripción**: 
-- **Enlace**: [Ver lección]()
-- **Conclusiones clave**: 
+- **Descripción**: En esta lección aprenderemos los conceptos básicos de condicionales y bucles ademas qué son los arrays en Java, cómo crearlos, acceder a sus elementos y recorrerlos.. Veremos cómo utilizar `if`, `else` y `for` para tomar decisiones y repetir instrucciones. Finalmente, aplicaremos lo aprendido mediante un pequeño ejercicio práctico.
+- **Enlaces**:
+
+    **Condicionales y bucles:** [https://youtu.be/glYk1BIuNqs](https://youtu.be/glYk1BIuNqs)
+
+    **Arrays:** [https://youtu.be/lmkAMhN05vQ](https://youtu.be/lmkAMhN05vQ)
+- **Conclusiones clave**: En esta lección aprendimos que los condicionales permiten tomar decisiones según una condición, mientras que los bucles permiten repetir instrucciones. Estos conceptos son fundamentales para crear programas que respondan a diferentes situaciones y procesen datos de manera eficiente. En esta lección aprendimos que los arrays permiten almacenar varios valores del mismo tipo en una sola estructura. También aprendimos a acceder a sus elementos y recorrerlos mediante bucles, facilitando el manejo de grandes cantidades de datos.
 
 ### Lección 4: Métodos, entrada/salida e introducción a la Programación Orientada a Objetos (4:17 minutos)
 
