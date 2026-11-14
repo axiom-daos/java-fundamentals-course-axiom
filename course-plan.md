@@ -2,9 +2,9 @@
 
 ## Resumen del Curso
 
-Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo los conceptos esenciales de la Programación Orientada a Objetos (POO). **¡No requiere descargas!** Solo abre tu navegador web.
+Este curso introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo los conceptos esenciales de la Programación Orientada a Objetos (POO). **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: minutos  
+**Duración total**: 65 minutos  
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
@@ -31,7 +31,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Ejemplos iniciales**: `starter-files/leccion-02/`.
 - **Ejemplos completos**: `completed-examples/leccion-02/`.
 
-### Lección 3: Decisiones, bucles y arrays ( minutos)
+### Lección 3: Decisiones, bucles y arrays (9:50 minutos)
 
 - **Descripción**: En esta lección aprenderemos los conceptos básicos de condicionales y bucles ademas qué son los arrays en Java, cómo crearlos, acceder a sus elementos y recorrerlos.. Veremos cómo utilizar `if`, `else` y `for` para tomar decisiones y repetir instrucciones. Finalmente, aplicaremos lo aprendido mediante un pequeño ejercicio práctico.
 - **Enlaces**:
