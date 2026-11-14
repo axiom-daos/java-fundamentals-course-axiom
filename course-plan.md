@@ -14,10 +14,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ## Secuencia de Lecciones
 
-### Lección 1: ¿Qué es Java y la programación? ( minutos)
-- **Descripción**: Descubre qué es programar, para qué sirve Java y por qué es un excelente lenguaje para comenzar.
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**: La programación es dar instrucciones a una computadora; Java se usa en aplicaciones, videojuegos y más.
+### Lección 1: ¿Qué es Java y la programación? (7:30 minutos)
+
+- **Descripción**: Introducción a los conceptos de programación y algoritmos, explicando la portabilidad de Java mediante la JVM y Bytecode, junto con una práctica guiada en JDoodle para compilar un primer "Hola Mundo" y aprender a solucionar errores comunes de sintaxis.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=FY0IejfcewY)
+- **Conclusiones clave**: Programar es dar instrucciones precisas para resolver problemas; Java funciona en cualquier plataforma gracias a la JVM; todo programa reside en clases con un método main, y las sentencias requieren comillas dobles y punto y coma.
 
  ### Lección 2: Variables, tipos de datos y operadores ( minutos)
 
