@@ -31,11 +31,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Enlace**: [Ver lección]()
 - **Conclusiones clave**: 
 
-### Lección 4: Métodos, entrada/salida e intro a la POO ( minutos)
+### Lección 4: Métodos, entrada/salida e introducción a la Programación Orientada a Objetos (4:17 minutos)
 
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**: 
+- **Descripción**: El video es una clase introductoria de Java que recorre cinco ideas básicas de la programación: los métodos como bloques de instrucciones reutilizables, la entrada de datos para que el programa pida información al usuario, el trabajo con textos y sus herramientas, y los conceptos de clase y objeto como introducción a la programación orientada a objetos, todo explicado con diapositivas, narración y demostraciones de código en pantalla.
+- **Enlace**: [Ver la lección](https://youtu.be/N-9Ek65hCpM)
+- **Conclusiones clave**: La conclusión clave es que programar consiste en organizar el código en piezas reutilizables y bien definidas: los métodos evitan repetir instrucciones, la entrada de datos permite que el programa interactúe con quien lo usa, y las clases y los objetos permiten modelar elementos del mundo real, donde la clase es el molde y cada objeto es una versión única creada a partir de él.
 
 
 ### Lección 5: Fundamentos de POO y programas sencillos ( minutos)
