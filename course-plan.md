@@ -43,14 +43,14 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Conclusiones clave**: La conclusión clave es que programar consiste en organizar el código en piezas reutilizables y bien definidas: los métodos evitan repetir instrucciones, la entrada de datos permite que el programa interactúe con quien lo usa, y las clases y los objetos permiten modelar elementos del mundo real, donde la clase es el molde y cada objeto es una versión única creada a partir de él.
 
 
-### Lección 5: Fundamentos de POO y programas sencillos ( minutos)
+### Lección 5: Fundamentos de POO y programas sencillos (25:12 minutos)
 
 - **Descripción**: Creacion de un programa utilizando la POO y sus fundamentos.
 - **Enlace**: [Ver la lección](https://www.youtube.com/playlist?list=PLKDgfiimMXYQ) 
 - **Conclusiones clave**: Entender POO, encapsulacion y creacion de objectos a traves de clases.
 
 
-### Lección 6: Consejos y próximos pasos ( minutos)
+### Lección 6: Consejos y próximos pasos (8:27minutos)
 
 - **Descripción**: Consejos practicos sobre la programacion en general.
 - **Enlace**: [Ver la lección](https://youtu.be/4Ub8LVN8Jz4)
