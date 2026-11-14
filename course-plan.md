@@ -40,16 +40,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 
 ### Lección 5: Fundamentos de POO y programas sencillos ( minutos)
 
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**:
+- **Descripción**: Creacion de un programa utilizando la POO y sus fundamentos.
+- **Enlace**: [Ver la lección](https://www.youtube.com/playlist?list=PLKDgfiimMXYQ) 
+- **Conclusiones clave**: Entender POO, encapsulacion y creacion de objectos a traves de clases.
 
 
 ### Lección 6: Consejos y próximos pasos ( minutos)
 
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**:
+- **Descripción**: Consejos practicos sobre la programacion en general.
+- **Enlace**: [Ver la lección](https://youtu.be/4Ub8LVN8Jz4)
+- **Conclusiones clave**: Seguir buenas practicas y entender errores tipicos permiten un mejor desarrollo.
 
 **¡Felicidades por completar el curso!** 
 
