@@ -20,11 +20,16 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=FY0IejfcewY)
 - **Conclusiones clave**: Programar es dar instrucciones precisas para resolver problemas; Java funciona en cualquier plataforma gracias a la JVM; todo programa reside en clases con un método main, y las sentencias requieren comillas dobles y punto y coma.
 
- ### Lección 2: Variables, tipos de datos y operadores ( minutos)
 
-- **Descripción**: 
-- **Enlace**: [Ver la lección]()
-- **Conclusiones clave**: 
+### Lección 2: Variables, tipos de datos y operadores (13 minutos aprox.)
+
+- **Descripción**: Aprende a almacenar información en variables utilizando `int`, `double`, `String` y `boolean`. Practica operadores aritméticos, de comparación y lógicos mediante ejemplos de videojuegos.
+- **Video 1**: [Variables y tipos de datos](https://www.youtube.com/watch?v=AndUIAMM4gU) (6–7 minutos).
+- **Video 2**: [Operadores y expresiones](https://www.youtube.com/watch?v=umGtsemiBqo) (6–7 minutos).
+- **Conclusiones clave**: Las variables almacenan información que puede cambiar. Los tipos de datos determinan qué valores podemos guardar. Los operadores permiten realizar cálculos y comparaciones, mientras que las expresiones producen resultados.
+- **Práctica en línea**: [Abrir JDoodle](https://www.jdoodle.com/online-java-compiler).
+- **Ejemplos iniciales**: `starter-files/leccion-02/`.
+- **Ejemplos completos**: `completed-examples/leccion-02/`.
 
 ### Lección 3: Decisiones, bucles y arrays ( minutos)
 
